@@ -21,8 +21,8 @@ This project implements an IoT-based Smart Urban Air Quality Monitoring System u
 
 
 ## Results
-- **Time Series Model Performance**: Linear regression showed an RMSE of X.XX.
-- **Deep Learning Model Performance**: LSTM achieved an RMSE of Y.YY.
+- **Time Series Model Performance**: Linear regression showed an RMSE of 0.24.
+- **Deep Learning Model Performance**: LSTM achieved an RMSE of 0.316.
 
 
 ## Contributors
